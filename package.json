@@ -4,8 +4,11 @@
   "private": true,
   "homepage": "https://zeroprojects17.github.io/",
   "dependencies": {
+    "grapesjs": "^0.22.5",
+    "quill": "^2.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-quill": "^2.0.0",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.15",
     "web-vitals": "^2.1.4"
